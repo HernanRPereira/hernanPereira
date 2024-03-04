@@ -117,6 +117,12 @@ header a:hover{
 h4{
     color: white;
 }
+h4 a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
 
 #Indice2 .container{
     padding: 50px 7.5px;
